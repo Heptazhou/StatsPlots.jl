@@ -1,6 +1,3 @@
-*.jl.cov
-*.jl.*.cov
-*.jl.mem
-Manifest.toml
-dev/
-.vscode/
+
+lcov.info
+Manifest-v*.toml
